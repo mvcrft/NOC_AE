@@ -10,6 +10,7 @@ You will need a copy of Adobe After Effects to view the .aep files, and I recomm
 Currently completed:
 
 Intro
+
 Chapter 01 - Vectors
 
 
