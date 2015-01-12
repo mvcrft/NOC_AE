@@ -13,6 +13,8 @@ Intro
 
 Chapter 01 - Vectors
 
+Chapter 02 - Forces
+
 
 Adapted by Colin Evoy Sebestyen
 
