@@ -12,11 +12,10 @@ Currently completed:
 Intro
 
 Chapter 01 - Vectors
+
 Chapter 02 - Forces
+
 Chapter 03 - Oscillation
-
-Chapter 02 - Forces
-
 
 Adapted by Colin Evoy Sebestyen
 
